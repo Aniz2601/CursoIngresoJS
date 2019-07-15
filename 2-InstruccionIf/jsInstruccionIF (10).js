@@ -5,7 +5,7 @@ function mostrar()
 	nota = Math.floor(Math.random() * 10) + 1;
 
 	//Math.floor: quita las comas
-
+	//prueba git
 	// alert(nota); //para probar
 
 	if(nota == 10 || nota == 9 )
